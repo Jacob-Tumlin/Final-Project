@@ -1,2 +1,2 @@
 # Python Final Project
-BISC 450C Final Project
+This is my final project from 450C Final Project.
