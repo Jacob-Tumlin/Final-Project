@@ -1,5 +1,5 @@
 # Python Final Project
-This is my final project from 450C Final Project.
+This is my final project for 450C Final Project at LaTech.
 
 ## Jupyter Notebooks
 
